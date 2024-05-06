@@ -24,5 +24,5 @@ Voici quelques projets sur lesquels j'ai travaillé et qui illustrent mon approc
 
 N'hésitez pas à me contacter pour discuter de projets, collaborations ou juste pour échanger sur les technologies web !
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=artveraa.artveraa)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=artveraa)
 
