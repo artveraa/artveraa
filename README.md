@@ -3,7 +3,7 @@ Je suis un développeur front-end passionné par la création de sites web au de
 
 - 🎨 **Spécialités** : Conception de sites originaux, animations avancées
 - 🛠 **Technologies** : Next.js, Sanity CMS, WordPress
-- 🌐 Vous pouvez voir certains de mes travaux sur [arthurvera.fr](arthurvera.fr)
+- 🌐 Vous pouvez voir certains de mes travaux sur [Studio Vera](https://www.studiovera.fr)
 
 ## 🌱 Ce que je suis en train d'apprendre
 Actuellement, je me plonge dans l'univers de Three.js afin d'apporter une dimension supplémentaire à mes projets en intégrant des éléments 3D. Je suis enthousiaste à l'idée d'explorer les possibilités infinies que cette technologie peut offrir.
