@@ -1,5 +1,3 @@
-# Bienvenue sur le profil GitHub de [Votre Nom] !
-
 ## 👋 À Propos de Moi
 Je suis un développeur front-end passionné par la création de sites web au design unique et engageant. J'adore intégrer des animations poussées pour enrichir l'expérience utilisateur et rendre chaque projet distinctif.
 
