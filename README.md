@@ -10,7 +10,7 @@ Actuellement, je me plonge dans l'univers de Three.js afin d'apporter une dimens
 
 ## 🚀 Mes Projets
 Voici quelques projets sur lesquels j'ai travaillé et qui illustrent mon approche du développement web :
-- **Jazz en Velay** : Un site interactif pour [Jazz en Velay](jazzenvelay.fr) utilisant Next.js et Sanity pour un contenu dynamique et personnalisable.
+- **Jazz en Velay** : Un site interactif pour [Jazz en Velay](https://www.jazzenvelay.fr) utilisant Next.js et Sanity pour un contenu dynamique et personnalisable.
 
 ## 💼 Technologies
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
