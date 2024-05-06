@@ -19,8 +19,8 @@ Voici quelques projets sur lesquels j'ai travaillé et qui illustrent mon approc
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 
 ## 📫 Comment me joindre
-- 📧 Email : [votre.email@example.com](mailto:contact@arthurvera.fr)
-- 💼 LinkedIn : [Votre LinkedIn](https://www.linkedin.com/in/arthur-vera/)
+- [📧 Email](mailto:contact@arthurvera.fr)
+- [💼 LinkedIn](https://www.linkedin.com/in/arthur-vera/)
 
 N'hésitez pas à me contacter pour discuter de projets, collaborations ou juste pour échanger sur les technologies web !
 
