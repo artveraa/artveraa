@@ -5,14 +5,14 @@ Je suis un développeur front-end passionné par la création de sites web au de
 
 - 🎨 **Spécialités** : Conception de sites originaux, animations avancées
 - 🛠 **Technologies** : Next.js, Sanity CMS, WordPress
-- 🌐 Vous pouvez voir certains de mes travaux sur [arthurvera.fr](#)
+- 🌐 Vous pouvez voir certains de mes travaux sur [arthurvera.fr](arthurvera.fr)
 
 ## 🌱 Ce que je suis en train d'apprendre
 Actuellement, je me plonge dans l'univers de Three.js afin d'apporter une dimension supplémentaire à mes projets en intégrant des éléments 3D. Je suis enthousiaste à l'idée d'explorer les possibilités infinies que cette technologie peut offrir.
 
 ## 🚀 Mes Projets
 Voici quelques projets sur lesquels j'ai travaillé et qui illustrent mon approche du développement web :
-- **Jazz en Velay** : Un site interactif pour [jazzenvelay.fr](#) utilisant Next.js et Sanity pour un contenu dynamique et personnalisable.
+- **Jazz en Velay** : Un site interactif pour [Jazz en Velay](jazzenvelay.fr) utilisant Next.js et Sanity pour un contenu dynamique et personnalisable.
 
 ## 💼 Technologies
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
