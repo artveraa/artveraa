@@ -18,9 +18,6 @@ Voici quelques projets sur lesquels j'ai travaillé et qui illustrent mon approc
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 
-## 📊 Mes Statistiques GitHub
-![VotreNom's GitHub stats](https://github-readme-stats.vercel.app/api?username=artveraa&show_icons=true&theme=radical)
-
 ## 📫 Comment me joindre
 - 📧 Email : [votre.email@example.com](mailto:contact@arthurvera.fr)
 - 💼 LinkedIn : [Votre LinkedIn](https://www.linkedin.com/in/arthur-vera/)
