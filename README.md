@@ -9,9 +9,9 @@ Actuellement, je me plonge dans l'univers de Three.js afin d'apporter une dimens
 
 ## 💼 Technologies
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=greensock)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 
 ## 📫 Comment me joindre
